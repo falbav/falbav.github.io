@@ -5,10 +5,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fabiola Alba Vivar / Personal Site"
+title                    : "Personal Site"
 title_separator          : "-"
 name                     : "Fabiola Alba Vivar"
-description              : &description "Graduate Student"
+description              : &description "Graduate Student."
 url                      : "https://falbav.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -67,9 +67,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fabiola Alba"
+  name             : "Fabiola Alba Vivar"
   avatar           : "IMG_6152.JPG"
-  bio              : "Graduate Student. Interest: Education, Labor and Development"
+  bio              : "Graduate Student. Working on Education, Labor and Development"
   location         : "Somerville,MA"
   employer         :
   email            : "fabiola_alba_viva@brown.edu"
