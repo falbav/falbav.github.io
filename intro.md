@@ -11,4 +11,5 @@ You can contact me at: fabiola_alba_viva@brown.edu
 ### Peruana de alma, corazon y vida.
 
 [Link to my CV](https://www.dropbox.com/s/fso3pzgewumyczt/CVFAlbaVivar.pdf?dl=0) 
-(IMG_6152) 
+
+[](IMG_6152) 
