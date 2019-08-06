@@ -1,19 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my personal site!
 
-You can use the [editor on GitHub](https://github.com/falbav/falbav.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ In this site, you will find more about my research, writings and photography.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
+You can contact me at: fabiola_alba_viva@brown.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Based in Somerville, Boston.
+# Peruana de alma, corazon y vida.
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -23,15 +19,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link to my CV](https://www.dropbox.com/s/fso3pzgewumyczt/CVFAlbaVivar.pdf?dl=0) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/falbav/falbav.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
