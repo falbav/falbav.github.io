@@ -5,10 +5,6 @@ collection: portfolio
 ---
 
 
-"<br/><img src='/images/DR1.jpg'>"
-
-
-"<br/><img src='/images/DR3.jpg'>"
-
-
-"<br/><img src='/images/DR2.jpg'>"
+<br/><img src='/images/DR1.jpg'>
+<br/><img src='/images/DR3.jpg'>
+<br/><img src='/images/DR2.jpg'>
