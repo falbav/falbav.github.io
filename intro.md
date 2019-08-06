@@ -12,4 +12,3 @@ You can contact me at: fabiola_alba_viva@brown.edu
 
 [Link to my CV](https://www.dropbox.com/s/fso3pzgewumyczt/CVFAlbaVivar.pdf?dl=0) 
 
-(IMG_6152.JPG) 
