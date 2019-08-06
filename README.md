@@ -7,7 +7,7 @@
 You can contact me at: fabiola_alba_viva@brown.edu
 
 
-## Based in Somerville, Boston.
+### Based in Somerville, Boston.
 ### Peruana de alma, corazon y vida.
 
 [Link to my CV](https://www.dropbox.com/s/fso3pzgewumyczt/CVFAlbaVivar.pdf?dl=0) 
