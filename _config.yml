@@ -7,7 +7,7 @@
 locale                   : "en-US"
 title                    : "Fabiola Alba Vivar / Personal Site"
 title_separator          : "-"
-name                     : &name "Dabiola Alba Vivar"
+name                     : &name "Fabiola Alba Vivar"
 description              : &description ""
 url                      : https://falbav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -55,18 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  username               :  &twitter
 
 
 # Analytics
@@ -78,39 +67,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Fabiola Alba"
+  avatar           : "profile.JPG"
+  bio              : "Graduate Student. Interest: Education, Labor and Development"
+  location         : "Somerville,MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
+  email            : "fabiola_alba_viva@brown.edu"
+  researchgate     : "https://www.researchgate.net/profile/Fabiola_Alba_Vivar"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
+  twitter          : "@fabalbav"
   youtube          :
   wikipedia        :
 
@@ -270,8 +238,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
