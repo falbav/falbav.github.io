@@ -1,6 +1,6 @@
 ---
-title: "Bolvia"
-excerpt: "Diciembre 2014"
+title: "Bolivia"
+excerpt: "December 2014"
 collection: portfolio
 ---
 
