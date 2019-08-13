@@ -5,13 +5,13 @@ collection: portfolio
 ---
 
 
- <br/><img src='/images/usa1.jpg'>
+ <br/><img src='/images/usa1.JPG'>
 
- <br/><img src='/images/usa2.jpg'>
+ <br/><img src='/images/usa2.JPG'>
 
- <br/><img src='/images/usa3.jpg'>
+ <br/><img src='/images/usa3.JPG'>
 
- <br/><img src='/images/usa4.jpg'>
+ <br/><img src='/images/usa4.JPG'>
 
- <br/><img src='/images/usa5.jpg'>
+ <br/><img src='/images/usa5.JPG'>
 
