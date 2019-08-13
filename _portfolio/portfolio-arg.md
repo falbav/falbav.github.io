@@ -5,14 +5,14 @@ collection: portfolio
 ---
 
 
-<br/><img src='/images/arg1.jpg'>
+<br/><img src='/images/arg1.JPG'>
 
-<br/><img src='/images/arg3.jpg'>
+<br/><img src='/images/arg3.JPG'>
 
-<br/><img src='/images/arg2.jpg'>
+<br/><img src='/images/arg2.JPG'>
 
-<br/><img src='/images/arg4.jpg'>
+<br/><img src='/images/arg4.JPG'>
 
-<br/><img src='/images/arg6.jpg'>
+<br/><img src='/images/arg6.JPG'>
 
-<br/><img src='/images/bol5.jpg'>
+<br/><img src='/images/bol5.JPG'>
