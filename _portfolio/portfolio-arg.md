@@ -15,4 +15,3 @@ collection: portfolio
 
 <br/><img src='/images/arg6.JPG'>
 
-<br/><img src='/images/bol5.JPG'>
