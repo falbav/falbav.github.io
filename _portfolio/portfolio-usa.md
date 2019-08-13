@@ -11,7 +11,8 @@ collection: portfolio
 
  <br/><img src='/images/usa3.JPG'>
 
- <br/><img src='/images/usa4.JPG'>
+ <br/><img src='/images/usa6.JPG'>
 
  <br/><img src='/images/usa5.JPG'>
 
+ <br/><img src='/images/usa7.JPG'>
