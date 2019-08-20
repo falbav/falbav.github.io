@@ -15,11 +15,12 @@ Here are some insights:
  *  [AVE Dominican Republic: Learning the Value of Education]
 
 Some articles in Spanish:
-* [Nuevo Paradigmas para la Migracion Interna Reciente] - Revista Economica, (Lima-Peru)
+ * [Nuevo Paradigmas para la Migracion Interna Reciente] - Revista Economica, (Lima-Peru)
 
 Articulos para Semana Economica: 
-* [Tipo de Cambio](https://semanaeconomica.com/article/economia/118706-el-tipo-de-cambio-en-el-sube-y-baja/)
-* [Presupuesto Publico](https://semanaeconomica.com/article/economia/123394-proyectando-el-2014-con-el-presupuesto-publico/) (Lima-Peru)
+ * [Tipo de Cambio](https://semanaeconomica.com/article/economia/118706-el-tipo-de-cambio-en-el-sube-y-baja/)
+ * [Presupuesto Publico](https://semanaeconomica.com/article/economia/123394-proyectando-el-2014-con-el-presupuesto-publico/) (Lima-Peru)
+
 
 {% include base_path %}
 
