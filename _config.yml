@@ -5,9 +5,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Site"
+title                    : "Fabiola Alba Vivar"
 title_separator          : "-"
-name                     : "Fabiola Alba Vivar"
+name                     : "Personal Site"
 description              : &description "Graduate Student."
 url                      : "https://falbav.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -141,23 +141,24 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  cv:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  post:
     output: true
     permalink: /:collection/:path/
 
 
+
 # Defaults
 defaults:
-  # _posts
+  # _cv
   - scope:
       path: ""
       type: posts
@@ -175,16 +176,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _post
   - scope:
       path: ""
       type: publications
