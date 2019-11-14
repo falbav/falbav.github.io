@@ -5,7 +5,6 @@ collection: fun
 ---
 
 # Text_Analysis_Chicha
-By Fabiola M. Alba Vivar
 
 I created a code in R that uses text and sentimental analysis to analyse one of my favorite playlists: Peruvian Psychedelic Chicha
 
