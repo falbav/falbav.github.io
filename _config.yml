@@ -153,7 +153,9 @@ collections:
   post:
     output: true
     permalink: /:collection/:path/
-
+ fun:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -203,6 +205,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+    # _fun
+  - scope:
+      path: ""
+      type: fun
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -211,6 +222,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+     
 
 # Sass/SCSS
 sass:
