@@ -8,7 +8,8 @@ collection: fun
 
 I created a code in R that uses text and sentimental analysis to analyse one of my favorite playlists: Peruvian Psychedelic Chicha
 
-Recommended: Listen to the playlist while reading this: spotify:playlist:5owR7sSGZ0cCE8E5gsNW8x
+Recommended: Listen to the playlist while reading this:
+<iframe src="https://open.spotify.com/embed/playlist/5owR7sSGZ0cCE8E5gsNW8x" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## Data Input
 I created a dataset of song's lyrics based on my -kinda famous- Spotify playlist. A little bit of context: peruvian cumbia and chicha were super popular around the 70s in Lima as a product of the huge rural-urban migration. It came back to life in the 2010s, becoming popular among young generations (like me!).
