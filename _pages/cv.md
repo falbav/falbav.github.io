@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-
-[Link to my CV](https://www.dropbox.com/s/l9chqwol0kdy755/CVFAlbaVivar.pdf?dl=0) 
+The link to my cv is [here](https://www.dropbox.com/s/l9chqwol0kdy755/CVFAlbaVivar.pdf?dl=0) 
 
