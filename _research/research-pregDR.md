@@ -8,11 +8,11 @@ This is a qualitative project done in 2017, thanks to seed grant from the Overde
 
 Co-Authors:
 
- -[Daniela Urbina Julio] (https://www.danielaurbina.com/)
+ -[Daniela Urbina Julio] <https://www.danielaurbina.com>
  
- -[Maria Rosales Rueda] (http://mariafrosales.com/)
+ -[Maria Rosales Rueda] <http://www.mariafrosales.com>
  
- -[Chris Neilson] (https://christopherneilson.github.io/)
+ -[Chris Neilson] <https://www.christopherneilson.github.io>
 
 # Introduction
 
