@@ -4,13 +4,17 @@ excerpt: "Fabiola Alba Vivar, Chris Neilson, Maria Rosales Rueda, Daniela Urbina
 collection: research
 ---
 
-This is a qualitative project done in 2017, thanks to seed grant from the Overdeck Foundation and the Woodrow Wilson School/ (Princeton U).
+This is a qualitative project done in 2017, thanks to seed grant from the Overdeck Foundation and the Woodrow Wilson School (Princeton U).
 
 # Introduction
 
-Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability. Our project \textbf{``Raising a baby or raising your future? The effects of teenage pregnancy on educational choices"} aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans. Our ultimate goal is to work with the government of Dominican Republic to design, propose, implement and evaluate a scalable intervention that aims to prevent teenage pregnancy and early childbearing, as well as improving the life chances of young women.   
+Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability.
+Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans. 
+Our ultimate goal is to work with the government of Dominican Republic to design, propose, implement and evaluate a scalable intervention that aims to prevent teenage pregnancy and early childbearing, as well as improving the life chances of young women.   
+
 The incubation phase of this project aims to identify the factors underlying the relationship between teenage pregnancy and educational choices in the Dominican Republic. An important aspect of this exploratory work it to better understand the current policy and social institutions in the Dominican context as well as develop a relationship with local policy makers. The results from this exploration phase will provide the foundations for the design of a proposal to obtain funding to implement and evaluate a feasible scalable policy intervention to address the issue of school drop-out due to a pregnancy among adolescents. 
 To achieve these goals, with the support of the Overdeck small seed grant, we conducted field work activities during July 2017. 
+
 This allowed us to: 
 (i) assess the extent to which girls were informed about sexual relations, contraceptive use and the quality of information they receive. 
 (ii) assess the extent to which the absence of life goals and aspirations can lead to teenagers to plan a pregnancy and 
@@ -157,11 +161,11 @@ Module 2:  Gender Norms and Beliefs
 
 1.	Thinking in general about Dominican society
   a.	What do you think is the ideal role woman should play?  What are the traditional expectations for young woman? [Note: education, work, etc.] 
-  b.	What about men? In Dominican society, was is the ideal role men should play? What are the traditional expectations for young men?\\
+  b.	What about men? In Dominican society, was is the ideal role men should play? What are the traditional expectations for young men?
 
 2.	About Plans and Beliefs a.	Did anyone in your family experienced having a baby during their adolescence?
   b.	Tell me about your life before becoming a mother: What were your main activities? What were your plans for the future? (e.g working, schooling, mothering?) What were you doing to attain those plans?
-  c.	What about now? How motherhood has changed your life, your activities and plans for the future? [Note: Let interviewee freely speak]. \\
+  c.	What about now? How motherhood has changed your life, your activities and plans for the future? [Note: Let interviewee freely speak].
 
 Module 3:  About the father
 
@@ -172,7 +176,7 @@ a.	How old is he?
 b.	Was he working at the time you got pregnant? Or was he in school? 
 c.	Where did you meet him? Could you tell us a bit more about your pregnancy?
 
-We have a set of questions about the context in which you become pregnant, if any of these questions make you uncomfortable just let us know and we’ll skip to the next question.\\
+We have a set of questions about the context in which you become pregnant, if any of these questions make you uncomfortable just let us know and we’ll skip to the next question.
 
 Module 4: Regarding Contraception
 
