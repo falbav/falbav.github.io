@@ -13,6 +13,11 @@ Co-Authors:
 
 [MacTec Peru](https://www.mactecperu.com/)
 
+   <iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=Xo-yQH2w1o" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 Over the past 30 years, gender-gap on average levels of educational attainment has closed in many developed and more recently in developing countries (Bailey and Dynarski, 2011; Rosenzweig and Zhang, 2013). Nonetheless, the gender gap in science, technology, engineering and mathematics (STEM) education and careers strongly persist (Ellison and Swanson, 2010; Cheryan, 2012; González de San Román and de la Rica Goiricelaya, 2016, Eble and Hu, 2018). Furthermore, STEM gender gaps are more pronounced in developing countries (Jayachandran, 2015). In Africa and Latin America, the gender gap in mathematics achievement tend to favor boys as early as end of primary school (UNESCO, 2017). In this paper, we examine whether an after-school intervention in primary school can improve girls STEM skills and attitudes. 
 
