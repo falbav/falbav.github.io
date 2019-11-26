@@ -41,7 +41,7 @@ We set our project in the Dominican Republic, which has the highest teenage preg
 #### Figure 2: Current Family Planning use among sexually active adolescents (ages 15-19)
 <br/><img src='/images/fig2.JPG'>
 
-In addition, teen pregnancy in the Dominican Republic is higher in low-income and rural populations, with 61.4% of pregnant teenagers belonging to the lowest two socio-economic status quintiles. Similarly, there are significant differences in the timing at which women start childbearing across SES status. The median age at first birth among women ages 20-49 is more than four years lower for women in households in the lowest wealth quintile (19.2 years) than for women in households in the wealthiest quintile (23.4 years, Table 1). These disparities in the incidence of teen pregnancy rates across SES status can contribute to perpetuate the intergenerational transmission of poverty and inequality. 
+In addition, teen pregnancy in the Dominican Republic is higher in low-income and rural populations, with 61.4% of pregnant teenagers belonging to the lowest two socio-economic status quintiles. Similarly, there are significant differences in the timing at which women start childbearing across SES status. The median age at first birth among women ages 20-49 is more than four years lower for women in households in the lowest wealth quintile (19.2 years) than for women in households in the wealthiest quintile (23.4 years). These disparities in the incidence of teen pregnancy rates across SES status can contribute to perpetuate the intergenerational transmission of poverty and inequality. 
 
 Regarding geographical differences, Figure 3 and 4 display the percentage of women 15-19 pregnant or with a child by region in 2007 and 2013 respectively. There is significant variation in the incidence of teen pregnancy between urban and rural areas. In addition, the regions in the border with Haiti have experienced an increase of around 10 percentage points in the incidence of teen pregnancy (from 29% to 38.5%).   
 
@@ -73,6 +73,7 @@ The selection of the sample for qualitative interviews was conducted taking adva
 Within the intervention a sample of students and their families were surveyed in order to learn about their educational and personal aspirations. A key feature of the survey was that it followed students even after they dropped-out of school. Importantly, approximately 50 percent of female students who dropped out school were pregnant or had a baby during that year. Using this data, we selected two groups for our in-depth interviews:
 
 -First Group (A): We selected a random group of students who dropped out because of a pregnancy.
+
 -Second Group (B): We also selected a random group of female students who did not dropped out but lived in the same neighborhood as the girls from the First Group (A)   
 
 The selection of students are shown in Figure 6 below. Our final sample relies on the AVE project sample selection that was originally designed for dropout rates.Nevertheless, this selection is also correlated with areas with high teenage pregnancy rates. 
