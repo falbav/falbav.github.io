@@ -46,7 +46,6 @@ In addition, teen pregnancy in the Dominican Republic is higher in low-income an
 
 Regarding geographical differences, Figure 3 and 4 display the percentage of women 15-19 pregnant or with a child by region in 2007 and 2013 respectively. There is significant variation in the incidence of teen pregnancy between urban and rural areas. In addition, the regions in the border with Haiti have experienced an increase of around 10 percentage points in the incidence of teen pregnancy (from 29% to 38.5%).   
 
-
 ### Figure 3: Distribution by Region, 2007
 <br/><img src='/images/DHS2007TeenPregMap.JPG'>
 
