@@ -58,7 +58,7 @@ Regarding geographical differences, Figure 3 and 4 display the percentage of wom
 Thanks to our visit to the Dominican Republic, we were able to talk to several members of the government, including the Ministry of Health. They provided us with birth certificates data from 2015 and 2016, which they use for their own records. We will be able to match these records with other administrative data sets, like school enrollment and conditional cash transfers, allowing us to have a wider set of outcomes. 
 
 ### Figure 5: Share of Teen Mothers across Municipal Level
-<br/><img src='/images/BithCertificatesMap.JPG'>
+<br/><img src='/images/BithCertificatesMap.jpg'>
 
 For this report, we analyze some simple statistics in order to learn about the the characteristics of newborns. In Figure 5, we calculate the share of births whose mother is under 20 years old. This indicator comes from micro data at municipal level and it can help us to see where teen mothers are more frequent and it shall not be confused with Teenage Pregnancy Rates. 
 
@@ -80,7 +80,7 @@ Within the intervention a sample of students and their families were surveyed in
 The selection of students are shown in Figure 6 below. Our final sample relies on the AVE project sample selection that was originally designed for dropout rates.Nevertheless, this selection is also correlated with areas with high teenage pregnancy rates. 
 
 ### Figure 6: Fieldwork Sample Selection
-<br/><img src='/images/Fieldwork.JPG'>
+<br/><img src='/images/Fieldwork.jpg'>
 
 In total, we selected 25 potential interviewees. Those subjects were contacted by staff members of the AVE Project Call Center and were asked if they were willing to participate in a face-to-face interview regarding teenage pregnancy. 
 As a result, 20 subjects were scheduled for an interview. Out of the 20 subjects, only 11 confirmed the interview after a re-confirmation call from the interviewer.
