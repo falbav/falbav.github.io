@@ -1,18 +1,18 @@
 ---
-title: "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices"
+title: "Raising a baby or raising your future?  The effects of teenage pregnancy on educational choices"
 excerpt: "Fabiola Alba Vivar, Chris Neilson, Maria Rosales Rueda, Daniela Urbina Julio"
 collection: research
 ---
 
-This is a qualitative project done in 2017, thanks to seed grant from the Overdeck Foundation and the Woodrow Wilson School (Princeton U).
+This is a qualitative project done in 2017, thanks to seed grant from the Overdeck Foundation and the Woodrow Wilson School (Princeton).
 
 # Introduction
 
-Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability.
-Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans. 
-Our ultimate goal is to work with the government of Dominican Republic to design, propose, implement and evaluate a scalable intervention that aims to prevent teenage pregnancy and early childbearing, as well as improving the life chances of young women.   
+Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability. Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans. 
 
-The incubation phase of this project aims to identify the factors underlying the relationship between teenage pregnancy and educational choices in the Dominican Republic. An important aspect of this exploratory work it to better understand the current policy and social institutions in the Dominican context as well as develop a relationship with local policy makers. The results from this exploration phase will provide the foundations for the design of a proposal to obtain funding to implement and evaluate a feasible scalable policy intervention to address the issue of school drop-out due to a pregnancy among adolescents. 
+The incubation phase of this project aims to identify the factors underlying the relationship between teenage pregnancy and educational choices in the Dominican Republic. An important aspect of this exploratory work it to better understand the current policy and social institutions in the Dominican context as well as develop a relationship with local policy makers. 
+
+The results from this exploration phase will provide the foundations for the design of a proposal to obtain funding to implement and evaluate a feasible scalable policy intervention to address the issue of school drop-out due to a pregnancy among adolescents. 
 To achieve these goals, with the support of the Overdeck small seed grant, we conducted field work activities during July 2017. 
 
 This allowed us to: 
@@ -40,7 +40,6 @@ We set our project in the Dominican Republic, which has the highest teenage preg
 
 #### Figure 2: Current Family Planning use among sexually active adolescents (ages 15-19)
 <br/><img src='/images/fig2.JPG'>
-
 
 In addition, teen pregnancy in the Dominican Republic is higher in low-income and rural populations, with 61.4% of pregnant teenagers belonging to the lowest two socio-economic status quintiles. Similarly, there are significant differences in the timing at which women start childbearing across SES status. The median age at first birth among women ages 20-49 is more than four years lower for women in households in the lowest wealth quintile (19.2 years) than for women in households in the wealthiest quintile (23.4 years, Table 1). These disparities in the incidence of teen pregnancy rates across SES status can contribute to perpetuate the intergenerational transmission of poverty and inequality. 
 
@@ -124,8 +123,10 @@ Finally, when asked about their preferred birth control method most interviews m
 In general, respondents had knowledge about where and how to access contraceptive methods. 
 Most of them say they can buy condoms or the pill at their local shops (colmados) or pharmacy, and the older respondents had knowledge on public programs that provide birth control shots and implants at  hospitals. 
 However, we identified two barriers to access contraceptive methods.
+
 First, for younger adolescents embarrassment is an issue that inhibits them to approach a pharmacy or local shop to buy contraception.
 In fact, several of our younger respondents say they had never done so and were embarrassed to talk about these issues with their parents.   
+
 Second, several respondents were worried to use birth control methods because of their presumably secondary effects on body weight. 
 Indeed, in almost all interviews contraceptive the pill, shots or implants were discarded because they make women too skinny. 
 The veracity of this information is unclear, but in practice these messages regarding secondary effects operate as a deterrence against the use of birth control methods. 
