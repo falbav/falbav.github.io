@@ -7,9 +7,12 @@ collection: research
 This is a qualitative project done in 2017, thanks to seed grant from the Overdeck Foundation and the Woodrow Wilson School (Princeton).
 
 Co-Authors:
- [Daniela Urbina Julio] (https://www.danielaurbina.com/)
- [Maria Rosales Rueda] (http://mariafrosales.com/)
- [Chris Neilson] (https://christopherneilson.github.io/)
+
+ -[Daniela Urbina Julio] (https://www.danielaurbina.com/)
+ 
+ -[Maria Rosales Rueda] (http://mariafrosales.com/)
+ 
+ -[Chris Neilson] (https://christopherneilson.github.io/)
 
 # Introduction
 
