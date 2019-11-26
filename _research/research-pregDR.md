@@ -6,6 +6,11 @@ collection: research
 
 This is a qualitative project done in 2017, thanks to seed grant from the Overdeck Foundation and the Woodrow Wilson School (Princeton).
 
+Co-Authors:
+ [Daniela Urbina Julio] (https://www.danielaurbina.com/)
+ [Maria Rosales Rueda] (http://mariafrosales.com/)
+ [Chris Neilson] (https://christopherneilson.github.io/)
+
 # Introduction
 
 Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability. Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans. 
