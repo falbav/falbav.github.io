@@ -3,6 +3,9 @@ title: "Creating future female scientists: experimental evidence on improving ST
 excerpt: "Fabiola Alba Vivar, Maria Rosales Rueda, Maria Micaela Sviatschi"
 collection: research
 ---
+
+### Status: Baseline 2019 Collected
+
 Co-Authors:
 
 [Maria Rosales Rueda](http://www.mariafrosales.com)
@@ -12,12 +15,6 @@ Co-Authors:
  Partner:
 
 [MacTec Peru](https://www.mactecperu.com/)
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=Xo-yQH2w1oU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 
 Over the past 30 years, gender-gap on average levels of educational attainment has closed in many developed and more recently in developing countries (Bailey and Dynarski, 2011; Rosenzweig and Zhang, 2013). Nonetheless, the gender gap in science, technology, engineering and mathematics (STEM) education and careers strongly persist (Ellison and Swanson, 2010; Cheryan, 2012; González de San Román and de la Rica Goiricelaya, 2016, Eble and Hu, 2018). Furthermore, STEM gender gaps are more pronounced in developing countries (Jayachandran, 2015). In Africa and Latin America, the gender gap in mathematics achievement tend to favor boys as early as end of primary school (UNESCO, 2017). In this paper, we examine whether an after-school intervention in primary school can improve girls STEM skills and attitudes. 
@@ -34,5 +31,9 @@ This paper seeks to answer the following research questions:
 
 We address our research questions using experimental evidence. Conditional on applying, MaCTec selects participants relying on a randomized control trial using a lottery. We are analyzing the 2016-2019 program by matching 2016-2019 applicants (2,800 girls) to the following sources of administrative data: ECE (national standardized test scores), SIAGIE (administrative centralized system that record enrollment, grades by subject, dropout, attendance, student behavior ratings), and SISFO (demographic census containing information on household characteristics such as income, parents education and occupation, this data will allow us to see heterogeneous effects by families and explore compliers’ characteristics). Therefore, we are able to compare randomized control and treated fellows before and after the intervention. Preliminary findings corroborate the validity of the randomization as baseline socio-demographic and education characteristics (before the intervention) are balanced between selected (treated) and non-selected (control) applicants.
 
+<br/><img src='/images/MacTecMapTreat.JPG'>
+
 We complement this administrative data by conducting follow up detailed in-depth surveys to parents and girls to measure attitudes, aspiration beliefs and parental investments as well as gender-science implicit association tests. Therefore, by comparing control versus treated girls (and their parents) we will be able to get information on whether the intervention affected aspirations and beliefs. MaCTeC provides a unique intervention as it targets girls at the end of primary school at a critical period before gaps in STEM abilities widen up. The final objective of our project is to learn whether the MaCTec model has the potential to increase girls’ interest and learning in STEM fields and propose an alternative to scale it up at the school level with the support of the Ministry of Education in 2020.
  
+For more importation, please contact me or any or the authors. 
+
