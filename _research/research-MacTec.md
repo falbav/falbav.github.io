@@ -9,5 +9,5 @@ Co-Authors:
  -[Maria Micaela Sviatschi](http://www.micaelasviatschi.com/)
  
 Partner:
- 
-	-[MacTec Peru] (https://www.mactecperu.com/)
+
+ -[MacTec Peru](https://www.mactecperu.com/)
