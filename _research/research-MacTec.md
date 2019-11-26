@@ -5,9 +5,10 @@ collection: research
 ---
 Co-Authors:
 
- -[Maria Rosales Rueda](http://www.mariafrosales.com)
- -[Maria Micaela Sviatschi](http://www.micaelasviatschi.com/)
+ #### [Maria Rosales Rueda](http://www.mariafrosales.com)
  
-Partner:
+ #### [Maria Micaela Sviatschi](http://www.micaelasviatschi.com/)
+ 
+ Partner:
 
- -[MacTec Peru](https://www.mactecperu.com/)
+ ##### [MacTec Peru](https://www.mactecperu.com/)
