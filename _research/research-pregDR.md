@@ -23,24 +23,28 @@ This allowed us to:
 # Literature Review
 
 Teenage pregnancy is recognized as an important policy concern as previous evidence suggests a negative relationship between early childbearing and later educational attainment and labor market outcomes (Fletcher and Wolfe, 2009; Hotz, McElroy and Sanders, 2005; Stange, Kevin, 2011). Teen parents may lose the opportunity to invest in their own human capital. Indeed evidence shows they have a lower probability of completing high school and attending college mothers (Haveman, Wolfe, and Peterson, 1997). Also, studies in developed and developing countries have found that teen childbirth is associated with a reduction in labor market participation, lower parental earnings and higher rates of poverty both in the short and long-term (Maynard, 1997; Azevedo et al., 2012; Arceo-Gomez and Campos-Vazquez, 2014).   
+
 Moreover, the consequences of teenage parenthood have intergenerational effects. A large number of studies have demonstrated that children born to teenage mothers tend to display lower human capital accumulation, and poorer health and labor market outcomes (Rosenzweig and Wolpin, 1995; Angrist and Lavy, 1996; Hoffman, 2008; Moore, Morrison, and Greene, 1997). Therefore, teenage pregnancy is considered a pervasive social problem that can contribute to the intergenerational transmission of inequality.
 Conceptually, teenage pregnancy is a complex decision that combines elements from a rational framework with other elements including imperfect information, gender role attitudes, aspirations, family structure, peer effects and behavioral issues (discounting, self-control, and empowerment).
+
 Previous studies in Latin America and the Caribbean have identified several factors underlying early childbearing. The most common factors relate to the quality and value of education (opportunity costs), incentives, poor information, access to contraceptive methods, self-esteem, social norms and aspirations. For example, according to a large-scale quantitative-qualitative study on adolescent fertility in Ecuador by the World Bank, most of the teenage pregnancies are unplanned reflecting the lack of control of youth over their life goals. The same study in Ecuador reported that interviewed adolescents claim that they received limited sexual education in classes with lack of information about birth control, sexual interactions, and risk behaviors (World Bank, 2012).  In other countries like Peru and Paraguay, studies argue that adolescents deliberately choose to have a child because their school performance was poor and they were looking for a reason to quit school (Näslund-Hadley and Binstock, 2010). The authors find that teenagers did not believe that education could change their future. This highlights the perception that the opportunity cost of getting pregnant is low, and how important is to consider the role of aspirations in these contexts (Edin and Kefalas, 2005; Ross and Mirowski, 2003). 
 
 # Teenage Pregnancy in Dominican Republic
 
 ## Context
+
 We set our project in the Dominican Republic, which has the highest teenage pregnancy rate in Latin America and the Caribbean -104 births per 1,000 people between the ages of 15 and 19- comparable to sub-Saharan Africa rates (Inter-American Development Bank, 2016). Using repeated cross-section data from the Demographic and Health Surveys, figure 1 shows fertility trends (births per 1000 women) for different age groups between 1986 and 2013. As can be seen, fertility rates have been declining for women aged between 20-29, but they have remained constant among adolescents (ages 15-19). In contrast, figure 2 shows that the current use of family planning methods among sexually active women has been growing among adolescents, increasing from 5\% in 1986 to 22\% in 2013, but still remains low.     
 
-### Figure 1: Fertility trends
+#### Figure 1: Fertility trends
 <br/><img src='/images/fig1.JPG'>
 
-### Figure 2: Current Family Planning use among sexually active adolescents (ages 15-19)
+#### Figure 2: Current Family Planning use among sexually active adolescents (ages 15-19)
 <br/><img src='/images/fig2.JPG'>
 Source: Dominican Republic Demographic and health Surveys (DHS)
 
-In addition, teen pregnancy in the Dominican Republic is higher in low-income and rural populations, with 61.4% of pregnant teenagers belonging to the lowest two socio-economic status quintiles (Table  \ref{tab:table1} ).Similarly, there are significant differences in the timing at which women start childbearing across SES status. The median age at first birth among women ages 20-49 is more than four years lower for women in households in the lowest wealth quintile (19.2 years) than for women in households in the wealthiest quintile (23.4 years, Table 1). These disparities in the incidence of teen pregnancy rates across SES status can contribute to perpetuate the intergenerational transmission of poverty and inequality. 
-Regarding geographical differences, Figure 3 and 4 display the percentage of women 15-19 pregnant or with a child by region in 2007 and 2013 respectively. There is significant variation in the incidence of teen pregnancy between urban and rural areas. In addition, the regions in the border with Haiti have experienced an increase of around 10 percentage points in the incidence of teen pregnancy ( from 29\% to 38.5\%).   
+In addition, teen pregnancy in the Dominican Republic is higher in low-income and rural populations, with 61.4% of pregnant teenagers belonging to the lowest two socio-economic status quintiles. Similarly, there are significant differences in the timing at which women start childbearing across SES status. The median age at first birth among women ages 20-49 is more than four years lower for women in households in the lowest wealth quintile (19.2 years) than for women in households in the wealthiest quintile (23.4 years, Table 1). These disparities in the incidence of teen pregnancy rates across SES status can contribute to perpetuate the intergenerational transmission of poverty and inequality. 
+
+Regarding geographical differences, Figure 3 and 4 display the percentage of women 15-19 pregnant or with a child by region in 2007 and 2013 respectively. There is significant variation in the incidence of teen pregnancy between urban and rural areas. In addition, the regions in the border with Haiti have experienced an increase of around 10 percentage points in the incidence of teen pregnancy (from 29% to 38.5%).   
 
 
 ### Figure 3: Distribution by Region, 2007
