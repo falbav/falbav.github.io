@@ -7,6 +7,14 @@ author_profile: true
 
 My main research focuses on labor economics, education and gender. 
 
+{% include base_path %}
+
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
 Before grad school,  my RA work took me to the most exciting field works. 
 Here are some insights: 
 
@@ -22,10 +30,5 @@ Articulos para Semana Economica:
  * [Presupuesto Publico](https://semanaeconomica.com/article/economia/123394-proyectando-el-2014-con-el-presupuesto-publico/) (Lima-Peru)
 
 
-{% include base_path %}
-
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
