@@ -4,7 +4,7 @@ excerpt: "Fabiola Alba Vivar, Chris Neilson, Maria Rosales Rueda, Daniela Urbina
 collection: research
 ---
 
-This is a qualitative project done in 2017, thanks to seed grant from the Overdeck Foundation and the Woodrow Wilson School (Princeton).
+This project was done in 2017, thanks to a seed grant from the Overdeck Foundation and the Woodrow Wilson School (Princeton).
 
 Co-Authors:
 
