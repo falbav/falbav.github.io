@@ -16,14 +16,9 @@ Co-Authors:
 
 # Introduction
 
-Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability. Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans. 
+Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability. Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans.  We conducted field work activities during July 2017. 
 
-The incubation phase of this project aims to identify the factors underlying the relationship between teenage pregnancy and educational choices in the Dominican Republic. An important aspect of this exploratory work it to better understand the current policy and social institutions in the Dominican context as well as develop a relationship with local policy makers. 
-
-The results from this exploration phase will provide the foundations for the design of a proposal to obtain funding to implement and evaluate a feasible scalable policy intervention to address the issue of school drop-out due to a pregnancy among adolescents. 
-To achieve these goals, with the support of the Overdeck small seed grant, we conducted field work activities during July 2017. 
-
-This allowed us to: 
+Rhe results of this fieldwork allowed us to: 
 (i) assess the extent to which girls were informed about sexual relations, contraceptive use and the quality of information they receive. 
 (ii) assess the extent to which the absence of life goals and aspirations can lead to teenagers to plan a pregnancy and 
 (iii) identify barriers to access to contraceptive methods such as lack of knowledge, supply, shame, fear or cultural attitudes. We gathered this information through qualitative interviews with female students and former female students who dropout due to a pregnancy. 
@@ -32,16 +27,17 @@ This allowed us to:
 
 Teenage pregnancy is recognized as an important policy concern as previous evidence suggests a negative relationship between early childbearing and later educational attainment and labor market outcomes (Fletcher and Wolfe, 2009; Hotz, McElroy and Sanders, 2005; Stange, Kevin, 2011). Teen parents may lose the opportunity to invest in their own human capital. Indeed evidence shows they have a lower probability of completing high school and attending college mothers (Haveman, Wolfe, and Peterson, 1997). Also, studies in developed and developing countries have found that teen childbirth is associated with a reduction in labor market participation, lower parental earnings and higher rates of poverty both in the short and long-term (Maynard, 1997; Azevedo et al., 2012; Arceo-Gomez and Campos-Vazquez, 2014).   
 
-Moreover, the consequences of teenage parenthood have intergenerational effects. A large number of studies have demonstrated that children born to teenage mothers tend to display lower human capital accumulation, and poorer health and labor market outcomes (Rosenzweig and Wolpin, 1995; Angrist and Lavy, 1996; Hoffman, 2008; Moore, Morrison, and Greene, 1997). Therefore, teenage pregnancy is considered a pervasive social problem that can contribute to the intergenerational transmission of inequality.
-Conceptually, teenage pregnancy is a complex decision that combines elements from a rational framework with other elements including imperfect information, gender role attitudes, aspirations, family structure, peer effects and behavioral issues (discounting, self-control, and empowerment).
+Moreover, the consequences of teenage parenthood have intergenerational effects. A large number of studies have demonstrated that children born to teenage mothers tend to display lower human capital accumulation, and poorer health and labor market outcomes (Rosenzweig and Wolpin, 1995; Angrist and Lavy, 1996; Hoffman, 2008; Moore, Morrison, and Greene, 1997). Therefore, teenage pregnancy is considered a pervasive social problem that can contribute to the intergenerational transmission of inequality. Conceptually, teenage pregnancy is a complex decision that combines elements from a rational framework with other elements including imperfect information, gender role attitudes, aspirations, family structure, peer effects and behavioral issues (discounting, self-control, and empowerment).
 
-Previous studies in Latin America and the Caribbean have identified several factors underlying early childbearing. The most common factors relate to the quality and value of education (opportunity costs), incentives, poor information, access to contraceptive methods, self-esteem, social norms and aspirations. For example, according to a large-scale quantitative-qualitative study on adolescent fertility in Ecuador by the World Bank, most of the teenage pregnancies are unplanned reflecting the lack of control of youth over their life goals. The same study in Ecuador reported that interviewed adolescents claim that they received limited sexual education in classes with lack of information about birth control, sexual interactions, and risk behaviors (World Bank, 2012).  In other countries like Peru and Paraguay, studies argue that adolescents deliberately choose to have a child because their school performance was poor and they were looking for a reason to quit school (Näslund-Hadley and Binstock, 2010). The authors find that teenagers did not believe that education could change their future. This highlights the perception that the opportunity cost of getting pregnant is low, and how important is to consider the role of aspirations in these contexts (Edin and Kefalas, 2005; Ross and Mirowski, 2003). 
+Previous studies in Latin America and the Caribbean have identified several factors underlying early childbearing. The most common factors relate to the quality and value of education (opportunity costs), incentives, poor information, access to contraceptive methods, self-esteem, social norms and aspirations. For example, according to a large-scale quantitative-qualitative study on adolescent fertility in Ecuador by the World Bank, most of the teenage pregnancies are unplanned reflecting the lack of control of youth over their life goals. The same study in Ecuador reported that interviewed adolescents claim that they received limited sexual education in classes with lack of information about birth control, sexual interactions, and risk behaviors (World Bank, 2012).  
+
+In other countries like Peru and Paraguay, studies argue that adolescents deliberately choose to have a child because their school performance was poor and they were looking for a reason to quit school (Näslund-Hadley and Binstock, 2010). The authors find that teenagers did not believe that education could change their future. This highlights the perception that the opportunity cost of getting pregnant is low, and how important is to consider the role of aspirations in these contexts (Edin and Kefalas, 2005; Ross and Mirowski, 2003). 
 
 # Teenage Pregnancy in Dominican Republic
 
 ## Context
 
-We set our project in the Dominican Republic, which has the highest teenage pregnancy rate in Latin America and the Caribbean -104 births per 1,000 people between the ages of 15 and 19- comparable to sub-Saharan Africa rates (Inter-American Development Bank, 2016). Using repeated cross-section data from the Demographic and Health Surveys, figure 1 shows fertility trends (births per 1000 women) for different age groups between 1986 and 2013. As can be seen, fertility rates have been declining for women aged between 20-29, but they have remained constant among adolescents (ages 15-19). In contrast, figure 2 shows that the current use of family planning methods among sexually active women has been growing among adolescents, increasing from 5\% in 1986 to 22\% in 2013, but still remains low.     
+We set our project in the Dominican Republic, which has the highest teenage pregnancy rate in Latin America and the Caribbean -104 births per 1,000 people between the ages of 15 and 19- comparable to sub-Saharan Africa rates (Inter-American Development Bank, 2016). Using repeated cross-section data from the Demographic and Health Surveys, figure 1 shows fertility trends (births per 1000 women) for different age groups between 1986 and 2013. As can be seen, fertility rates have been declining for women aged between 20-29, but they have remained constant among adolescents (ages 15-19). In contrast, figure 2 shows that the current use of family planning methods among sexually active women has been growing among adolescents, increasing from 5% in 1986 to 22% in 2013, but still remains low.     
 
 #### Figure 1: Fertility trends
 <br/><img src='/images/fig1.JPG'>
@@ -72,7 +68,8 @@ Using data from 2015 and 2016 birth certificates, we perform a simple analysis t
 
 # Understanding Teen Pregnancy Factors: Our 2017 Exploratory Field Work 
 
-A key component of our project was the execution of qualitative interviews to understand the decision making process faced by Dominican teenagers.The objectives of our field work activities were the following: (i) assess the extent to which girls and boys are informed about sexual relations, contraceptive use and the quality of information they receive. We also wanted to (ii) assess the extent to which the absence of life goals and aspirations can lead to teenagers to plan a pregnancy and finally (iii) identify barriers to access  contraceptive methods such as lack of knowledge, supply, shame, fear or cultural attitudes. 
+A key component of our project was the execution of qualitative interviews to understand the decision making process faced by Dominican teenagers.The objectives of our field work activities were the following: (i) assess the extent to which girls and boys are informed about sexual relations, contraceptive use and the quality of information they receive. 
+We also wanted to (ii) assess the extent to which the absence of life goals and aspirations can lead to teenagers to plan a pregnancy and finally (iii) identify barriers to access  contraceptive methods such as lack of knowledge, supply, shame, fear or cultural attitudes. 
 
 ## Methodology: Sample Selection and Interview Process
 
@@ -94,6 +91,7 @@ As a result, 20 subjects were scheduled for an interview. Out of the 20 subjects
 
 Moreover, interviews were conducted face-to face by two female researchers, Fabiola Alba and Daniela Urbina, with the logistic support of two research interns.  On average, interviews lasted 20 minutes and were audio recorded with the participants' consent. 
 The survey questions and protocols for groups A and B are in the Appendix.  
+
 No compensations were given and consents were taken, following the AVE Project Implementation Rules and our IRB Protocols.
 
 ## Preliminary Findings In-Depth Interviews
@@ -129,9 +127,7 @@ Finally, when asked about their preferred birth control method most interviews m
 
 ### Barriers to birth control
 
-In general, respondents had knowledge about where and how to access contraceptive methods. 
-Most of them say they can buy condoms or the pill at their local shops (colmados) or pharmacy, and the older respondents had knowledge on public programs that provide birth control shots and implants at  hospitals. 
-However, we identified two barriers to access contraceptive methods.
+In general, respondents had knowledge about where and how to access contraceptive methods. Most of them say they can buy condoms or the pill at their local shops (colmados) or pharmacy, and the older respondents had knowledge on public programs that provide birth control shots and implants at  hospitals. However, we identified two barriers to access contraceptive methods.
 
 First, for younger adolescents embarrassment is an issue that inhibits them to approach a pharmacy or local shop to buy contraception.
 In fact, several of our younger respondents say they had never done so and were embarrassed to talk about these issues with their parents.   
@@ -147,7 +143,11 @@ Finally, we also wanted to explore how cultural aspects in the Dominican context
 In particular, several respondents argue that nothing is expected from Dominican men, and provide starkly negative depictions of their behavior. For instance, Caro explains that in her town many men just spend their days “hanging out” and want to be economically supported by their partners. The idea that young Dominican men do not work and want to be provided by their girlfriends is seconded by Camila, Vale, Susana and Inés. Other interviewees depict men as “malos” (bad), sexists and only interested in providing for themselves. This is why many women, according to our respondents, not only are in charge of housework and child rearing, but also are the main breadwinners of their households. Regardless if these perceptions are empirically true or not, the fact that so many young women hold these expectations of men is worrisome and definitely could be affecting family formation patterns. 
 
 In this vein, we were also interested in the perception adolescents had of the reasons why their peers got pregnant during school.
-All non-mother respondents answered that girls usually don’t use birth control because they actually want to get pregnant to retain their boyfriends. Luz explains: “You say to them “protect yourself, get the shot”  (…), they say they will, but in practice they want to “trap” their boyfriends by getting pregnant, do you understand? Today, young women have one boyfriend, but the boyfriend might have many girls so then I get pregnant so that he has to stick with me”. As mentioned, this vision is widely shared by all non-mother respondents. They also add that usually this strategy doesn’t work; some responsible men will take care of the child but won’t necessarily continue a monogamous romantic relationship with the mother. Again, the perception women need to “trap” men via a pregnancy reveals a lack of trust in the existence of healthy romantic relationships were both men and women decide to form a monogamous union. 
+All non-mother respondents answered that girls usually don’t use birth control because they actually want to get pregnant to retain their boyfriends. Luz explains:
+
+>“You say to them “protect yourself, get the shot”  (…), they say they will, but in practice they want to “trap” their boyfriends by getting pregnant, do you understand? Today, young women have one boyfriend, but the boyfriend might have many girls so then I get pregnant so that he has to stick with me”.<br/>
+
+As mentioned, this vision is widely shared by all non-mother respondents. They also add that usually this strategy doesn’t work; some responsible men will take care of the child but won’t necessarily continue a monogamous romantic relationship with the mother. Again, the perception women need to “trap” men via a pregnancy reveals a lack of trust in the existence of healthy romantic relationships were both men and women decide to form a monogamous union. 
 
 ### Final Remarks
 
