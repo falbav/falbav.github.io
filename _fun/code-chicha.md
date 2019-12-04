@@ -16,8 +16,6 @@ https://youtu.be/6mZ3EY6-r2U
 
 <br/><img src='/images/Chacalon.jpg'>
 
-
-
 ## Data Input
 I created a dataset of songs' lyrics based on my -kinda famous- Spotify playlist (hope the followers keep increasing!). I compiled the biggest hits in this playlist/dataset, this of course, personal taste plus a little bit of research I made.  
 The raw data is included in the Github site. 
