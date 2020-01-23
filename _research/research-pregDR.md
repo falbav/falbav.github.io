@@ -16,9 +16,9 @@ Co-Authors:
 
 # Introduction
 
-Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability. Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans.  We conducted field work activities during July 2017. 
+Teenage pregnancy is considered a persistent development challenge in several low-income countries despite the technological advances in modern contraceptive methods and their availability. Our project "Raising a baby or raising your future? The effects of teenage pregnancy on educational choices" aims to understand the dynamics of teenage pregnancy, and in particular its determinants and risk factors among young Dominicans. We conducted field work activities during July 2017. 
 
-Rhe results of this fieldwork allowed us to: 
+The results of this fieldwork allowed us to: 
 (i) assess the extent to which girls were informed about sexual relations, contraceptive use and the quality of information they receive. 
 (ii) assess the extent to which the absence of life goals and aspirations can lead to teenagers to plan a pregnancy and 
 (iii) identify barriers to access to contraceptive methods such as lack of knowledge, supply, shame, fear or cultural attitudes. We gathered this information through qualitative interviews with female students and former female students who dropout due to a pregnancy. 
@@ -68,8 +68,7 @@ Using data from 2015 and 2016 birth certificates, we perform a simple analysis t
 
 # Understanding Teen Pregnancy Factors: Our 2017 Exploratory Field Work 
 
-A key component of our project was the execution of qualitative interviews to understand the decision making process faced by Dominican teenagers.The objectives of our field work activities were the following: (i) assess the extent to which girls and boys are informed about sexual relations, contraceptive use and the quality of information they receive. 
-We also wanted to (ii) assess the extent to which the absence of life goals and aspirations can lead to teenagers to plan a pregnancy and finally (iii) identify barriers to access  contraceptive methods such as lack of knowledge, supply, shame, fear or cultural attitudes. 
+A key component of our project was the execution of qualitative interviews to understand the decision making process faced by Dominican teenagers.The objectives of our field work activities were the following: (i) assess the extent to which girls and boys are informed about sexual relations, contraceptive use and the quality of information they receive. We also wanted to (ii) assess the extent to which the absence of life goals and aspirations can lead to teenagers to plan a pregnancy and finally (iii) identify barriers to access  contraceptive methods such as lack of knowledge, supply, shame, fear or cultural attitudes. 
 
 ## Methodology: Sample Selection and Interview Process
 
@@ -84,10 +83,10 @@ Within the intervention a sample of students and their families were surveyed in
 The selection of students are shown in Figure 6 below. Our final sample relies on the AVE project sample selection that was originally designed for dropout rates.Nevertheless, this selection is also correlated with areas with high teenage pregnancy rates. 
 
 ### Figure 6: Fieldwork Sample Selection
+
 <br/><img src='/images/Fieldwork.jpg'>
 
-In total, we selected 25 potential interviewees. Those subjects were contacted by staff members of the AVE Project Call Center and were asked if they were willing to participate in a face-to-face interview regarding teenage pregnancy. 
-As a result, 20 subjects were scheduled for an interview. Out of the 20 subjects, only 11 confirmed the interview after a re-confirmation call from the interviewer.
+In total, we selected 25 potential interviewees. Those subjects were contacted by staff members of the AVE Project Call Center and were asked if they were willing to participate in a face-to-face interview regarding teenage pregnancy. As a result, 20 subjects were scheduled for an interview. Out of the 20 subjects, only 11 confirmed the interview after a re-confirmation call from the interviewer.
 
 Moreover, interviews were conducted face-to face by two female researchers, Fabiola Alba and Daniela Urbina, with the logistic support of two research interns.  On average, interviews lasted 20 minutes and were audio recorded with the participants' consent. 
 The survey questions and protocols for groups A and B are in the Appendix.  
@@ -102,10 +101,9 @@ In this section we summarize the main findings of our interviews in the Dominica
 
 An increasing body of literature looks at the role of women's aspirations and life plans to explain unintended pregnancies among adolescents (e.g. Edin and Kefalas, 2005; Ross and Mirowski, 2003). Indeed, among our respondents we found clear differences in terms of life goals between girls that got pregnant during school and those who did not. More specifically, when asked about their aspirations before getting pregnant the majority of respondents explain they did not have particular career plans after school. 
 
-Yet they all mention they wanted to finish school before having children. For example, Paula\footnote{We are not using the respondents' real names to protect their identity as specified by IRB protocols and regulations.} explains she liked to go to school and was a good student, but never thought about University seriously because she didn't know what to study, or what areas she liked. Currently, all respondents that drop-out when they got pregnant want to go back to school and finish their secondary education, although only one of them has actually executed this intention. After motherhood, respondents plans include finding a job, but their narratives do not show the existence of concrete goals.  
+Yet they all mention they wanted to finish school before having children. For example, Paula (-we are not using the respondents' real names to protect their identity as specified by IRB protocols and regulations -) explains she liked to go to school and was a good student, but never thought about University seriously because she didn't know what to study, or what areas she liked. Currently, all respondents that drop-out when they got pregnant want to go back to school and finish their secondary education, although only one of them has actually executed this intention. After motherhood, respondents plans include finding a job, but their narratives do not show the existence of concrete goals.  
 
-In contrast, the majority of girls that haven't had a pregnancy reveal more precise plans for their future.  Several of them mention they want to develop careers when they finish high school. For instance, Inés is working hard to study medicine just like her older sister, while Vale plans to study social communication and is learning English to be prepared for it. 
-Indeed, what is remarkable is that these adolescents have specific plans for their future. In addition, most of them want to have kids once they have a career, a concept that is not present in the narratives of teenage mothers. Also, the ideal age they report to have their first baby varies between 25 to 32 years old. 
+In contrast, the majority of girls that haven't had a pregnancy reveal more precise plans for their future.  Several of them mention they want to develop careers when they finish high school. For instance, Inés is working hard to study medicine just like her older sister, while Vale plans to study social communication and is learning English to be prepared for it. Indeed, what is remarkable is that these adolescents have specific plans for their future. In addition, most of them want to have kids once they have a career, a concept that is not present in the narratives of teenage mothers. Also, the ideal age they report to have their first baby varies between 25 to 32 years old. 
 
 ### Fieldwork In Progress
 <br/><img src='/images/IMG_5092.JPG'>
@@ -116,11 +114,9 @@ Naturally, one of the main purposes of our interviews was to have a sense of the
 
 Interestingly, two respondents were using contraception pills, bought by their boyfriends,  but decided to stop taking them because of the daily commitment to be effective. The latter suggests that for these girls a pregnancy may be more related to a lack of motivation to use contraception than by insufficient information. Currently, all respondents in this group are using some form of contraception including birth control implants, shots, and the pill. 
 
-Furthermore, across respondents that haven't had a pregnancy we found important knowledge variations by age. 
-As expected, girls between 13 to 15 years old have less knowledge on contraception methods, which is circumscribed only to condoms and birth control. For this group, their main source of information is their school and sexual education class, while friends and parents seem to play a minor role. 
+Furthermore, across respondents that haven't had a pregnancy we found important knowledge variations by age. As expected, girls between 13 to 15 years old have less knowledge on contraception methods, which is circumscribed only to condoms and birth control. For this group, their main source of information is their school and sexual education class, while friends and parents seem to play a minor role. 
 
-In contrast, older girls know a more comprehensive spectrum of methods that include birth control shots and implants. 
-Also, their main sources of information include friends and neighborhood acquaintances that either recommend a method or are living examples of a method that did not work. For example, Maria cites the example of a neighbor that was taking the pill and got pregnant to argue why she would prefer to use a birth control implant. 
+In contrast, older girls know a more comprehensive spectrum of methods that include birth control shots and implants. Also, their main sources of information include friends and neighborhood acquaintances that either recommend a method or are living examples of a method that did not work. For example, Maria cites the example of a neighbor that was taking the pill and got pregnant to argue why she would prefer to use a birth control implant. 
 
 Caro is reticent of using birth control shots and mentions the case of someone at school that got pregnant using this method.  
 Finally, when asked about their preferred birth control method most interviews mentioned contraception shots, in the case of older respondents,  or the pill, in the case of younger girls. None of them indicated condoms as a preferred method. 
