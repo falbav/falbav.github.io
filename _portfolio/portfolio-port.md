@@ -4,7 +4,6 @@ excerpt: "From many places and time"
 collection: portfolio
 ---
 
-
  <br/><img src='/images/por1.JPG'>
 
  <br/><img src='/images/por2.JPG'>
@@ -26,8 +25,6 @@ collection: portfolio
  <br/><img src='/images/por10.JPG'>
 
  <br/><img src='/images/por11.JPG'>
-
- <br/><img src='/images/por12.JPG'>
 
  <br/><img src='/images/por13.JPG'>
 
