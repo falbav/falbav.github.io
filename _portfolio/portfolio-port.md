@@ -26,6 +26,4 @@ collection: portfolio
 
  <br/><img src='/images/por11.JPG'>
 
- <br/><img src='/images/por13.JPG'>
-
- <br/><img src='/images/por14.JPG'>
+<br/><img src='/images/por14.JPG'>
