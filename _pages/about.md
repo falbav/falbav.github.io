@@ -14,8 +14,8 @@ redirect_from:
 
 ### Contact
 
-You can contact me at: fabiola_alba_viva@brown.edu
+You can contact me at: fma2139@tc.columbia.edu
 
 
-### Based in Somerville, MA.
+### Based in NYC, USA.
 ### Peruana de alma, corazon y vida.
