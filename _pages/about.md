@@ -17,5 +17,5 @@ redirect_from:
 You can contact me at: fma2139@tc.columbia.edu
 
 
-### Based in NYC, USA.
+### Based in the USA.
 ### Peruana de alma, corazon y vida.
