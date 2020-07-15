@@ -10,8 +10,6 @@ collection: portfolio
 
  <br/><img src='/images/por3.JPG'>
 
- <br/><img src='/images/por4.JPG'>
-
  <br/><img src='/images/por5.JPG'>
 
  <br/><img src='/images/por6.JPG'>
@@ -23,7 +21,5 @@ collection: portfolio
  <br/><img src='/images/por9.JPG'>
  
  <br/><img src='/images/por10.JPG'>
-
- <br/><img src='/images/por11.JPG'>
 
 <br/><img src='/images/por14.JPG'>
