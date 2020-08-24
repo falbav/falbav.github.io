@@ -4,8 +4,7 @@ excerpt: "Fabiola Alba Vivar, Maria Rosales Rueda, Maria Micaela Sviatschi"
 collection: research
 ---
 
-### Status: Baseline 2019 Collected, Endline 2019: On the field
-
+### Status: Baseline 2019 Collected, Endline 2020: Collected
 Co-Authors:
 
 [Maria Rosales Rueda](http://www.mariafrosales.com)
@@ -29,7 +28,7 @@ This paper seeks to answer the following research questions:
 
 2) Do role model impacts persist over time?
 
-We address our research questions using experimental evidence. Conditional on applying, MaCTec selects participants relying on a randomized control trial using a lottery. We are analyzing the 2016-2019 program by matching 2016-2019 applicants (2,800 girls) to the following sources of administrative data: ECE (national standardized test scores), SIAGIE (administrative centralized system that record enrollment, grades by subject, dropout, attendance, student behavior ratings), and SISFO (demographic census containing information on household characteristics such as income, parents education and occupation, this data will allow us to see heterogeneous effects by families and explore compliers’ characteristics). Therefore, we are able to compare randomized control and treated fellows before and after the intervention. Preliminary findings corroborate the validity of the randomization as baseline socio-demographic and education characteristics (before the intervention) are balanced between selected (treated) and non-selected (control) applicants.
+We address our research questions using experimental evidence. Conditional on applying, MaCTec selects participants relying on a randomized control trial using a lottery. We are analyzing the 2016-2019 program by matching 2016-2019 applicants (2,800 girls) to the following sources of administrative data: ECE (national standardized test scores), SIAGIE (administrative centralized system that record enrollment, grades by subject, dropout, attendance, student behavior ratings), and SISFOH (demographic census containing information on household characteristics such as income, parents education and occupation, this data will allow us to see heterogeneous effects by families and explore compliers’ characteristics). Therefore, we are able to compare randomized control and treated fellows before and after the intervention. Preliminary findings corroborate the validity of the randomization as baseline socio-demographic and education characteristics (before the intervention) are balanced between selected (treated) and non-selected (control) applicants.
 
 <br/><img src='/images/MacTecMapTreat.jpg'>
 
